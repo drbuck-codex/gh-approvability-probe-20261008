@@ -1,3 +1,4 @@
+# throwaway approvability probe
 name: probe
 on:
   workflow_dispatch:
